@@ -1,0 +1,13 @@
+C:\Users\johanna\source\repos\notasAprendiz\notasAprendiz\bin\Debug\netcoreapp3.1\notasAprendiz.exe
+C:\Users\johanna\source\repos\notasAprendiz\notasAprendiz\bin\Debug\netcoreapp3.1\notasAprendiz.deps.json
+C:\Users\johanna\source\repos\notasAprendiz\notasAprendiz\bin\Debug\netcoreapp3.1\notasAprendiz.runtimeconfig.json
+C:\Users\johanna\source\repos\notasAprendiz\notasAprendiz\bin\Debug\netcoreapp3.1\notasAprendiz.runtimeconfig.dev.json
+C:\Users\johanna\source\repos\notasAprendiz\notasAprendiz\bin\Debug\netcoreapp3.1\notasAprendiz.dll
+C:\Users\johanna\source\repos\notasAprendiz\notasAprendiz\bin\Debug\netcoreapp3.1\notasAprendiz.pdb
+C:\Users\johanna\source\repos\notasAprendiz\notasAprendiz\obj\Debug\netcoreapp3.1\notasAprendiz.csprojAssemblyReference.cache
+C:\Users\johanna\source\repos\notasAprendiz\notasAprendiz\obj\Debug\netcoreapp3.1\notasAprendiz.AssemblyInfoInputs.cache
+C:\Users\johanna\source\repos\notasAprendiz\notasAprendiz\obj\Debug\netcoreapp3.1\notasAprendiz.AssemblyInfo.cs
+C:\Users\johanna\source\repos\notasAprendiz\notasAprendiz\obj\Debug\netcoreapp3.1\notasAprendiz.csproj.CoreCompileInputs.cache
+C:\Users\johanna\source\repos\notasAprendiz\notasAprendiz\obj\Debug\netcoreapp3.1\notasAprendiz.dll
+C:\Users\johanna\source\repos\notasAprendiz\notasAprendiz\obj\Debug\netcoreapp3.1\notasAprendiz.pdb
+C:\Users\johanna\source\repos\notasAprendiz\notasAprendiz\obj\Debug\netcoreapp3.1\notasAprendiz.genruntimeconfig.cache
